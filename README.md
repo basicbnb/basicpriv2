@@ -1,3 +1,3 @@
 # basicpriv2
-" hello the world "
+" hello the world on chain "
 end
